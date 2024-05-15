@@ -1,4 +1,4 @@
-package com.tubig.car;
+package com.maliwat.car;
 
 import org.springframework.data.repository.CrudRepository;
 

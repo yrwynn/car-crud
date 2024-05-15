@@ -1,4 +1,5 @@
-package com.tubig.car;
+package com.maliwat.car;
+
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
