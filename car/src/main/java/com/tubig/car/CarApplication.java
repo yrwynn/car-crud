@@ -1,4 +1,4 @@
-package com.tuazon.car;
+package com.tubig.car;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
